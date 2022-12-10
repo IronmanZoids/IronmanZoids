@@ -1,0 +1,18 @@
+inicio
+declarar 
+  nomb_est(srt), 
+  cal1(float),
+  cal2(float),
+  cal3(float),
+  cal4(float),
+  promedio(float)
+
+Mostrar 'ingresa el nombre del estudiante'
+Asignar nomb_est
+Asignar cal1, [validar que sea numero]
+Asignar cal2
+Asignar cal3
+Asignar cal4
+12 asignar promedio = (cal1+cal2+cal3+cal4)/4
+mostrar 'el alumno ',nomb_est,' obtuvo un promedio de ',promedio
+15 fin
